@@ -15,24 +15,8 @@ Well! People always criticize the ones who do time-pass, even i did critisize ot
 But trust me there is nothing like time-pass. Its all about making our mood and serving our interests.
 When that interest is far far short term we play game and most of the time people call it a timepass.
 
-Well! The time is already passing by, we just wanna make it a good time-pass.
-```
-Syntax highlighted code block
+# Well! The time is already passing by, we just wanna make it a good time-pass.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Support or Contact
 
 Having trouble with bad mood or sadness? Contact us the time pass team and we’ll help you sort it out.

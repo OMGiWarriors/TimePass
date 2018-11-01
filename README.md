@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Well! The time is already passing by, we just wanna make it a good time-pass.
 ```markdown
 Syntax highlighted code block
 

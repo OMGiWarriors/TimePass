@@ -2,7 +2,7 @@
 
 ## OUR MISSION
 
-Our **Mission** is to provide the friends a perfect site which enables them *to do* *a great world class time-pass'.
+Our **Mission** is to provide the friends a perfect site which enables them *to do* 'a great world class time-pass'.
 
 ## OUR VISSION
 

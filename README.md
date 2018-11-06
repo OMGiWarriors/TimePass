@@ -46,9 +46,9 @@ None of these projects are casual, we are damn serious about being casual.
 ### Done
 
     - 1. Idea Initialization with small team
-    - 2. Created TimePass theme (idea) and {ReadMe.md file} with GitHub page at ([https://omgiwarriors.github.io/TimePass/])
+    - 2. Created TimePass theme (idea) and {ReadMe.md file} with GitHub page at (https://omgiwarriors.github.io/TimePass)
     - 3. Added software development section to the ReadMe
     
 ### Release
 
-    -1. 
+    -1. work is in progress

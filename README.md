@@ -33,7 +33,7 @@ None of these projects are casual, we are damn serious about being casual.
 ## Software Development Section
 
 ### Roadmap
-    
+   
     - 1. To train an All Rounders team for collaboration
     - 2. To define the Software Architecture
     - 3. To build an Agile DevOps Setup for CI/CD
@@ -41,12 +41,12 @@ None of these projects are casual, we are damn serious about being casual.
 ### Work in Progress
     
     - 1. Brain-Storming for the Software expectation and design
-         Expected output : ***Individual Points*** which will give this team online presense and a real good TimePass strategy (stories/epics in Agile)
+         Expected output : **Individual Points** which will give this team online presense and a real good TimePass strategy (stories/epics in Agile)
     
 ### Done
 
     - 1. Idea Initialization with small team
-    - 2. Created TimePass theme (idea) and {ReadMe.md file} with GitHub page at (https://omgiwarriors.github.io/TimePass/)
+    - 2. Created TimePass theme (idea) and {ReadMe.md file} with GitHub page at ([https://omgiwarriors.github.io/TimePass/])
     - 3. Added software development section to the ReadMe
     
 ### Release

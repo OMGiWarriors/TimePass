@@ -1,15 +1,15 @@
-### Welcome to TimePass
+### Welcome to project TimePass
 
-## OUR MISSION
+## MISSION
 
 Our **Mission** is to provide the friends a perfect site which enables them *to do* 'a great world class time-pass'.
 
-## OUR VISSION
+## VISSION
 
 Our **vision** is to empower our friends giving them all-in-one services so that they can not only do time-pass effectively;
 but also they will get addicted to it. No one in the world will defeat our friends in doing timepass, is our Vision's statement.
 
-### Project Introduction
+## Introduction
 
 People always criticize the ones who do time-pass; even I did criticize others; coz I didn't get time for doing timepass.
 But trust me there is nothing anything like which is called time-pass. Its all about making our mood and serving our interests.
@@ -19,7 +19,7 @@ When that interest is far far short term, we doing something which the person se
 
 Well! The time is already passing by, we just wanna make it a good time-pass.
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with bad mood or sadness? Contact us the time-pass team and we’ll help you sort it out.
 
@@ -29,3 +29,26 @@ If you want to be part of community doing timpass, you can put your little and f
  - You can be part of our project **TimePass** here (https://github.com/OMGiWarriors/TimePass)
  - You can be part of our organization **OMGiWarriors** here (https://github.com/OMGiWarriors).
 None of these projects are casual, we are damn serious about being casual.
+
+## Software Development Section
+
+### Roadmap
+    
+    - 1. To train an All Rounders team for collaboration
+    - 2. To define the Software Architecture
+    - 3. To build an Agile DevOps Setup for CI/CD
+    
+### Work in Progress
+    
+    - 1. Brain-Storming for the Software expectation and design
+         Expected output : ***Individual Points*** which will give this team online presense and a real good TimePass strategy (stories/epics in Agile)
+    
+### Done
+
+    - 1. Idea Initialization with small team
+    - 2. Created TimePass theme (idea) and {ReadMe.md file} with GitHub page at (https://omgiwarriors.github.io/TimePass/)
+    - 3. Added software development section to the ReadMe
+    
+### Release
+
+    -1. 
